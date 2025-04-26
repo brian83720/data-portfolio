@@ -10,7 +10,7 @@ Each project demonstrates skills in data cleaning, EDA (exploratory data analysi
 
 | Project | Description |
 |---------|-------------|
-| [Netflix Content Analysis 📺](https://github.com/YOUR_USERNAME/netflix-content-analysis) | Explored Netflix's content trends by type, genre, rating, and region using Python, pandas, matplotlib, and seaborn. |
+| [Netflix Content Analysis 📺](https://github.com/brian83720/netflix-content-analysis) | Explored Netflix's content trends by type, genre, rating, and region using Python, pandas, matplotlib, and seaborn. |
 
 (More projects coming soon...)
 
